@@ -1,7 +1,7 @@
 # Recebe algo no terminal e guarda em var
 var = input()
 
-#Convertendo para inteiro:
+#Convertendo para ponto flutuante:
 var = float(var)
 
 # Imprime o tipo de var:
